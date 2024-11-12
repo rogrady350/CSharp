@@ -1,0 +1,46 @@
+﻿@page "/ToDoList"
+@using Lab9_ToDoList.Models
+@rendermode InteractiveServer
+
+<PageTitle>To Do List</PageTitle>
+
+<h1>To-Do List</h1>
+
+<!--Title-->
+<strong>Title: </strong> <InputText @bind-Value="title"/>
+
+<!--Add items to list-->
+<button @onclick="AddItem" type="button">Add item to list</button>
+
+<!--Display To Do items-->
+<ul>
+    @foreach(ToDoItem item in items)
+    {
+        Console.WriteLine("AddItem method triggered");
+
+        <li>@item.Title</li>
+        <!--IsCompleted-->
+        <InputCheckbox @bind-Value="item.IsCompleted"/>
+    }
+</ul>
+
+
+
+@code {
+    private string title;
+    private bool done;
+
+    List<ToDoItem> items = new();
+
+    private void AddItem()
+    {
+        ToDoItem item = new ToDoItem();
+
+        done = !done;
+
+        item.Title = title;
+        item.IsCompleted = done;
+
+        items.Add(item);
+    }
+}

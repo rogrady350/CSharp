@@ -1,0 +1,14 @@
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\bin\Debug\net8.0\Lab4_DreamGarage.exe
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\bin\Debug\net8.0\Lab4_DreamGarage.deps.json
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\bin\Debug\net8.0\Lab4_DreamGarage.runtimeconfig.json
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\bin\Debug\net8.0\Lab4_DreamGarage.dll
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\bin\Debug\net8.0\Lab4_DreamGarage.pdb
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.AssemblyInfoInputs.cache
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.AssemblyInfo.cs
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.csproj.CoreCompileInputs.cache
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.dll
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\refint\Lab4_DreamGarage.dll
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.pdb
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\Lab4_DreamGarage.genruntimeconfig.cache
+C:\Users\turns\source\repos\Lab4_DreamGarage\Lab4_DreamGarage\obj\Debug\net8.0\ref\Lab4_DreamGarage.dll

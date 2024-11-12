@@ -1,0 +1,14 @@
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.AssemblyInfoInputs.cache
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.AssemblyInfo.cs
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.csproj.CoreCompileInputs.cache
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\bin\Debug\net8.0\Lab8_Generic_Garage.exe
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\bin\Debug\net8.0\Lab8_Generic_Garage.deps.json
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\bin\Debug\net8.0\Lab8_Generic_Garage.runtimeconfig.json
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\bin\Debug\net8.0\Lab8_Generic_Garage.dll
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\bin\Debug\net8.0\Lab8_Generic_Garage.pdb
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.dll
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\refint\Lab8_Generic_Garage.dll
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.pdb
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\Lab8_Generic_Garage.genruntimeconfig.cache
+C:\Users\turns\source\repos\Lab8_Generic_Garage\Lab8_Generic_Garage\obj\Debug\net8.0\ref\Lab8_Generic_Garage.dll

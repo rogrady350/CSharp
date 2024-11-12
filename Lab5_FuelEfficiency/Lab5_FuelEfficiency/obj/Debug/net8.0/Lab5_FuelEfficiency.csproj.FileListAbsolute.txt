@@ -1,0 +1,14 @@
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\bin\Debug\net8.0\Lab5_FuelEfficiency.exe
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\bin\Debug\net8.0\Lab5_FuelEfficiency.deps.json
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\bin\Debug\net8.0\Lab5_FuelEfficiency.runtimeconfig.json
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\bin\Debug\net8.0\Lab5_FuelEfficiency.dll
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\bin\Debug\net8.0\Lab5_FuelEfficiency.pdb
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.AssemblyInfoInputs.cache
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.AssemblyInfo.cs
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.csproj.CoreCompileInputs.cache
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.dll
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\refint\Lab5_FuelEfficiency.dll
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.pdb
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\Lab5_FuelEfficiency.genruntimeconfig.cache
+C:\Users\turns\source\repos\Lab5_FuelEfficiency\Lab5_FuelEfficiency\obj\Debug\net8.0\ref\Lab5_FuelEfficiency.dll

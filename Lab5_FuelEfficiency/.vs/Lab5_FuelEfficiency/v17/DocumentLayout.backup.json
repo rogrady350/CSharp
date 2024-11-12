@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|c:\\users\\turns\\source\\repos\\lab5_fuelefficiency\\lab5_fuelefficiency\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|solutionrelative:lab5_fuelefficiency\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|c:\\users\\turns\\source\\repos\\lab5_fuelefficiency\\lab5_fuelefficiency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|solutionrelative:lab5_fuelefficiency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|c:\\users\\turns\\source\\repos\\lab5_fuelefficiency\\lab5_fuelefficiency\\invalidvehicleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7849348-2A11-4108-86F7-4CA1F51C1901}|Lab5_FuelEfficiency\\Lab5_FuelEfficiency.csproj|solutionrelative:lab5_fuelefficiency\\invalidvehicleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidVehicleException.cs",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\InvalidVehicleException.cs",
+              "RelativeDocumentMoniker": "Lab5_FuelEfficiency\\InvalidVehicleException.cs",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\InvalidVehicleException.cs",
+              "RelativeToolTip": "Lab5_FuelEfficiency\\InvalidVehicleException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:09:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\menu.cs",
+              "RelativeDocumentMoniker": "Lab5_FuelEfficiency\\menu.cs",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\menu.cs",
+              "RelativeToolTip": "Lab5_FuelEfficiency\\menu.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwF8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:44:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5_FuelEfficiency\\Program.cs",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab5_FuelEfficiency\\Lab5_FuelEfficiency\\Program.cs",
+              "RelativeToolTip": "Lab5_FuelEfficiency\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:38:57.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
