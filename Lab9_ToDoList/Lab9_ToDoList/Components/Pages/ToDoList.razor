@@ -2,34 +2,36 @@
 @using Lab9_ToDoList.Models
 @rendermode InteractiveServer
 
+<!--3. Create To-Do List Component-->
 <PageTitle>To Do List</PageTitle>
 
+<!--heading tag-->
 <h1>To-Do List</h1>
 
-<!--Title-->
+<!--Title, input field to add items to list-->
 <strong>Title: </strong> <InputText @bind-Value="title"/>
 
-<!--Add items to list-->
+<!--Button to add items to list-->
 <button @onclick="AddItem" type="button">Add item to list</button>
 
-<!--Display To Do items-->
+<!--List to display To Do items-->
 <ul>
     @foreach(ToDoItem item in items)
     {
         Console.WriteLine("AddItem method triggered");
 
         <li>@item.Title</li>
-        <!--IsCompleted-->
+        <!--Bind IsCompleted-->
         <InputCheckbox @bind-Value="item.IsCompleted"/>
     }
 </ul>
-
 
 
 @code {
     private string title;
     private bool done;
 
+    //List variable. Holds collection of to-do items
     List<ToDoItem> items = new();
 
     private void AddItem()

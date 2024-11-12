@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3pxsw0nVQn2mgwh94boITQXVOBu9p6IOwOc5fMvFgy8=",
+  "Hash": "3TjzECELNHlOVS+oD2f2Ic/wP9TJH/CLCikoFa4IXkM=",
   "Source": "Lab9_ToDoList",
   "BasePath": "_content/Lab9_ToDoList",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Lab9_ToDoList\\wwwroot",
       "Source": "Lab9_ToDoList",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
       "BasePath": "_content/Lab9_ToDoList",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab9_ToDoList.styles.css",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab9_ToDoList.styles.css",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "Lab9_ToDoList.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab9_ToDoList.styles.css"
+      "OriginalItemSpec": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab9_ToDoList.styles.css"
     },
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab9_ToDoList.bundle.scp.css",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab9_ToDoList.bundle.scp.css",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "Lab9_ToDoList.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab9_ToDoList.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab9_ToDoList.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\app.css",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\favicon.png",
       "SourceId": "Lab9_ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\wwwroot\\",
       "BasePath": "_content/Lab9_ToDoList",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

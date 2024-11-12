@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Lab9_ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Lab9_ToDoList.csproj",
       "projectName": "Lab9_ToDoList",
-      "projectPath": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Lab9_ToDoList.csproj",
+      "projectPath": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Lab9_ToDoList.csproj",
       "packagesPath": "C:\\Users\\turns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

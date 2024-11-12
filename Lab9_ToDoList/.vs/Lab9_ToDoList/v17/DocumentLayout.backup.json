@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\",
+  "WorkspaceRootPath": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\lab9_todolist\\lab9_todolist\\components\\pages\\todolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\csharp\\lab9_todolist\\lab9_todolist\\components\\pages\\todolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|solutionrelative:lab9_todolist\\components\\pages\\todolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\lab9_todolist\\lab9_todolist\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\csharp\\lab9_todolist\\lab9_todolist\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|solutionrelative:lab9_todolist\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\lab9_todolist\\lab9_todolist\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|c:\\users\\turns\\source\\repos\\csharp\\lab9_todolist\\lab9_todolist\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3418C2D7-366A-4A7F-ABC8-5A97A101A805}|Lab9_ToDoList\\Lab9_ToDoList.csproj|solutionrelative:lab9_todolist\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Lab9_ToDoList\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ToDoList.razor",
-              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
               "RelativeDocumentMoniker": "Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
-              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
               "RelativeToolTip": "Lab9_ToDoList\\Components\\Pages\\ToDoList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T00:56:11.898Z",
               "EditorCaption": ""
@@ -57,13 +57,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ToDoItem.cs",
-              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Models\\ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Models\\ToDoItem.cs",
               "RelativeDocumentMoniker": "Lab9_ToDoList\\Models\\ToDoItem.cs",
-              "ToolTip": "C:\\Users\\turns\\source\\repos\\Lab9_ToDoList\\Lab9_ToDoList\\Models\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\turns\\source\\repos\\CSharp\\Lab9_ToDoList\\Lab9_ToDoList\\Models\\ToDoItem.cs",
               "RelativeToolTip": "Lab9_ToDoList\\Models\\ToDoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T00:55:04.721Z"
+              "WhenOpened": "2024-11-12T00:55:04.721Z",
+              "EditorCaption": ""
             }
           ]
         }
